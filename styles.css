@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: aquamarine;
+    margin: 0;
+}
+
+.top-container {
+    position: relative;
+   padding-top: 100px;
+   color: rgb(2, 59, 59);
+
+}
+
+h1 {
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+
+.middle-container {
+    margin-left: 20%;
+    margin-right: 20%;
+}
